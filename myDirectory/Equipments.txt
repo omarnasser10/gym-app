@@ -1,0 +1,1 @@
+ equipID=1, name=Leg press, isavail=true

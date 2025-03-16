@@ -1,0 +1,14 @@
+Admin,Omar,34FF8$%
+
+TrainerManager,JoKoGYKu,UwD8Txbt1O
+EquipmentManager,Vd4jx8hJ,ilr$Z4aHwF
+ScheduleManager,XdOOHYbv,5Cf9BFpcSi
+Trainer,buFaw5V8,M3jogQTwnR,1
+EquipmentManager,0uEhbFwZ,lj@dW@5c6w
+
+
+Trainer,YCurqcZt,gp8%Xjf9!4,3
+Trainer,UeuRxQUS,QY8GWzERP6,4
+
+Customer,BEulOZuB,MLLp1lutqe,1
+Customer,ZHjjPlsY,5%E*Q8P0@s,3

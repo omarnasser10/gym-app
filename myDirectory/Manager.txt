@@ -1,0 +1,6 @@
+name='Farida', phone='01101126564', email='far.emad888@gmail.com', age=20, salary=5000.0, hiringDate='5-5-2024'managerid=1 , department='CustomerManager
+name='Ahmed', phone='01267321567', email='ahmedMOstafa45@gmail.com', age=25, salary=6000.0, hiringDate='3-1-2024'managerid=2 , department='TrainerManager
+name='Sara', phone='01135678954', email='Sarayonan@gmail.com', age=22, salary=5500.0, hiringDate='4-5-2024'managerid=3 , department='EquipmentManager
+name='Abdelrahman', phone='01547898887', email='Abdo77@gmail.com', age=35, salary=7000.0, hiringDate='2-1-2024'managerid=4 , department='ScheduleManager
+name='mostafa', phone='01156745628', email='m@', age=20, salary=15000.0, hiringDate='2004-08-05'managerid=5 , department='EquipmentManager
+name='mariam', phone='457892541', email='mariam', age=20, salary=2500.0, hiringDate='5'managerid=6 , department='CustomerManager
